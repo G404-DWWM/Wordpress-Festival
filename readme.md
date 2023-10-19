@@ -14,7 +14,7 @@ Ce projet est une excellente occasion pour vous de mettre en pratique vos compé
 
 Pour ce projet, vous allez travailler en groupes de 3. Chaque groupe aura la liberté de choisir le thème et le type de festival qu'il souhaite promouvoir. Que ce soit un festival de rock, de jazz, de cinéma ou même de gastronomie, laissez libre cours à votre créativité !
 
-Pour vous aider à démarrer, vous pouvez vous inspirer de thèmes WordPress existants. Des sites comme ThemeForest, Astra ou OceanWP proposent de nombreux thèmes que vous pouvez utiliser comme point de départ. N'oubliez pas, l'idée n'est pas de copier un thème existant, mais de vous en inspirer pour créer votre propre design.
+Pour vous aider à démarrer, vous pouvez vous inspirer de thèmes WordPress existants. Des sites comme [ThemeForest](https://themeforest.net/category/wordpress), [Astra](https://wpastra.com/) ou [OceanWP](https://oceanwp.org/) proposent de nombreux thèmes que vous pouvez utiliser comme point de départ. N'oubliez pas, l'idée n'est pas de copier un thème existant, mais de vous en inspirer pour créer votre propre design.
 
 Une fois que vous avez une idée de l'apparence que vous voulez donner à votre site, la première étape sera d'installer WordPress et les plugins nécessaires. Voici les plugins que vous devrez installer :
 
