@@ -56,7 +56,7 @@ Voici les tâches que vous devrez réaliser pour ce projet :
   - Page de plan du festival
   - Page de contact
 
-## voici le [FIGMA](https://www.figma.com/file/yLw46yp90ZNQNxnWGsaCrd/Festival-P7) regroupant l'ensemble de l'arborecence du site
+### voici le [FIGMA](https://www.figma.com/file/yLw46yp90ZNQNxnWGsaCrd/Festival-P7) regroupant l'ensemble de l'arborecence du site
 
 - **Créer les objets du site** : Vous devrez créer les objets ACF suivants pour votre site :
 
