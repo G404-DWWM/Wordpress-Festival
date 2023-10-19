@@ -58,11 +58,27 @@ Voici les tâches que vous devrez réaliser pour ce projet :
 
 ## voici le [FIGMA](https://www.figma.com/file/yLw46yp90ZNQNxnWGsaCrd/Festival-P7) regroupant l'ensemble de l'arborecence du site
 
-- **Créer les articles du site** : Vous devrez créer les objets ACF suivants pour votre site :
+- **Créer les objets du site** : Vous devrez créer les objets ACF suivants pour votre site :
 
-  - Objet artiste
-  - Objet concert
-  - Objet journée
+- Artiste
+  Nom (Texte) : Le nom de l'artiste.
+  Biographie (Textarea) : Une courte biographie de l'artiste.
+  Image (Image) : Une image de l'artiste.
+  Genre (Texte) : Le genre musical de l'artiste.
+  Site web (URL) : Le site web officiel de l'artiste.
+  Réseaux sociaux (URL) : Les liens vers les réseaux sociaux de l'artiste.
+
+- Concert
+  Artiste (Post Object - Artiste) : L'artiste qui donne le concert.
+  Journée (Post Object - Journée) : La journée pendant laquelle le concert a lieu.
+  Heure de début (Heure) : L'heure à laquelle le concert commence.
+  Heure de fin (Heure) : L'heure à laquelle le concert se termine.
+  Scène (Texte) : La scène sur laquelle le concert a lieu.
+
+- Journée
+  Date (Date) : La date de la journée.
+  Concerts (Relationship - Concert) : Les concerts qui ont lieu pendant cette journée.
+  Programme (Textarea) : Un résumé du programme de la journée.
 
 - **Créer éléments globaux** : Vous devrez créer les éléments globaux suivants pour votre site :
 
