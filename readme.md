@@ -18,12 +18,11 @@ Pour vous aider à démarrer, vous pouvez vous inspirer de thèmes WordPress exi
 
 Une fois que vous avez une idée de l'apparence que vous voulez donner à votre site, la première étape sera d'installer WordPress et les plugins nécessaires. Voici les plugins que vous devrez installer :
 
-- Advanced Custom Fields (ACF) : Ce plugin vous permettra d'ajouter des champs personnalisés à vos pages et articles.
-- Yoast SEO : Ce plugin vous aidera à optimiser votre site pour les moteurs de recherche.
-- Contact Form 7 : Ce plugin vous permettra de créer des formulaires de contact sur votre site.
-- WooCommerce : Ce plugin vous permettra de mettre en place la billetterie en ligne.
-
-N'oubliez pas, ce projet est une occasion pour vous de mettre en pratique vos compétences et de créer quelque chose dont vous pouvez être fiers. Alors, mettez-vous au travail et amusez-vous bien ! 🎉
+- **Advanced Custom Fields (ACF)** : Ce plugin vous permettra d'ajouter des champs personnalisés à vos pages et articles.
+- **Yoast SEO** : Ce plugin vous aidera à optimiser votre site pour les moteurs de recherche.
+- **Contact Form 7** : Ce plugin vous permettra de créer des formulaires de contact sur votre site.
+- **WooCommerce** : Ce plugin vous permettra de mettre en place la billetterie en ligne.
+- **Utiliser un builder** : Pour faciliter la création de votre site, vous devrez utiliser un builder comme Elementor ou Divi. Ces outils vous permettent de créer des designs complexes sans avoir à écrire de code. Ils offrent une grande flexibilité et vous permettent de personnaliser chaque aspect de votre site. Vous devrez vous familiariser avec le builder que vous choisissez et l'utiliser pour créer les différentes pages de votre site.
 
 # Organisation du travail en groupe 🧑‍🤝‍🧑
 
