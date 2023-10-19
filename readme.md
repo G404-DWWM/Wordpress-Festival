@@ -41,6 +41,10 @@ En suivant ces conseils, vous devriez être en mesure de travailler efficacement
 
 Voici les tâches que vous devrez réaliser pour ce projet :
 
+- **Définir la direction artistique** : Vous devrez définir la direction artistique de votre site. Cela comprend le choix des couleurs, des polices, des styles d'images et des autres éléments de design qui donneront à votre site son apparence unique. N'oubliez pas, la direction artistique doit être cohérente sur l'ensemble du site pour créer une expérience utilisateur harmonieuse.
+
+- **Concevoir l'UX et l'UI** : Vous devrez concevoir l'expérience utilisateur (UX) et l'interface utilisateur (UI) de votre site. Cela signifie que vous devrez réfléchir à la façon dont les utilisateurs interagiront avec votre site et concevoir l'interface pour qu'elle soit intuitive et facile à utiliser. Vous devrez également vous assurer que votre site est accessible à tous les utilisateurs, y compris ceux qui ont des besoins d'accessibilité spécifiques.
+
 - **Créer un thème enfant** : Vous devrez créer un thème enfant pour personnaliser l'apparence de votre site. Vous pouvez utiliser un thème parent existant ou créer votre propre thème. N'oubliez pas, vous devrez utiliser le plugin Advanced Custom Fields (ACF) pour ajouter des champs personnalisés à vos pages et articles.
 
 - **Créer les pages du site** : Vous devrez créer les pages suivantes pour votre site :
